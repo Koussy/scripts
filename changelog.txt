@@ -13,6 +13,7 @@ that repo.
 Template for new versions:
 
 ## New Tools
+- 'locate-stone': fork of locate-ore to add stone and fuel sources
 
 ## New Features
 
